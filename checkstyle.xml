@@ -4,7 +4,6 @@
     <module name="TreeWalker">
         <module name="WhitespaceAround">
             <property name="tokens" value="STRING_LITERAL"/>
-            <property name="allowEmptyString" value="true"/>
         </module>
     </module>
 </module>
