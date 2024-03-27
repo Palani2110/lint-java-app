@@ -3,7 +3,6 @@
 <module name="Checker">
     <module name="TreeWalker">
         <module name="WhitespaceAround">
-            <property name="tokens" value="STRING_LITERAL"/>
         </module>
     </module>
 </module>
