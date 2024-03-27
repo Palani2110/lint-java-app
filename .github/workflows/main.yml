@@ -20,6 +20,7 @@ jobs:
       - name: Set up JDK
         uses: actions/setup-java@v2
         with:
+          distribution: 'adopt'
           java-version: '11' # Adjust Java version as needed
 
       - name: Run Checkstyle
